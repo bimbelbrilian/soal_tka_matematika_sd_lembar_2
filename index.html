@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="pageTitle">Kuis Matematika - Penjumlahan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 id="mainTitle">🧮 Kuis Matematika - Penjumlahan</h1>
+      <p class="subtitle" id="mainSubtitle">Dibuat oleh Bimbel Brilian - www.bimbelbrilian.com</p>
+    </div>
+
+    <div class="identity-box">
+      <label for="name">Nama:</label>
+      <input type="text" id="name" placeholder="Masukkan nama Anda" required>
+      <label for="school">Asal Sekolah:</label>
+      <input type="text" id="school" placeholder="Masukkan asal sekolah Anda" required>
+    </div>
+
+    <button id="startBtn">🚀 MULAI MENGERJAKAN</button>
+
+    <div id="quizControls" class="hidden">
+      <div class="quiz-controls">
+        <div id="timer" class="hidden">⏱️ Waktu tersisa: <span id="time">00:00</span></div>
+        <div class="feature-controls">
+          <button id="soundToggle">🔊 Sound</button>
+          <button id="voiceBtn">🎤 Baca Soal</button>
+        </div>
+      </div>
+
+      <div id="progressIndicator" class="progress-indicator"></div>
+    </div>
+
+    <div id="quizContent" class="hidden">
+      </div>
+
+    <div id="result" class="result-box">
+      <img src="https://bimbelbrilian.com/wp-content/uploads/2025/10/Logo-bimbelbrilian-2025-scaled.png" 
+           alt="Logo Bimbel Brilian" class="logo">
+      <h2>🎉 Hasil Penilaian</h2>
+      <p><strong id="resultQuizTopic">Kuis Matematika - Penjumlahan</strong></p>
+      <p><strong>Nama:</strong> <span id="studentName"></span></p>
+      <p><strong>Asal Sekolah:</strong> <span id="studentSchool"></span></p>
+      
+      <div class="stars" id="starContainer">
+        </div>
+      
+      <div class="score" id="score">0</div>
+      
+      <div id="achievements"></div>
+      
+      <p id="summary"></p>
+      <p id="wrongNumbers"></p>
+      <p id="tanggal"></p>
+
+      <div class="feature-buttons">
+        <button id="shareBtn">📤 Share Hasil</button>
+      </div>
+
+      <div class="certificate" id="certificate">
+        <div class="certificate-content">
+          <h3>🏆 Sertifikat Prestasi</h3>
+          <p>Diberikan kepada:</p>
+          <h4 id="certificateName"></h4>
+          <p><strong>Asal Sekolah:</strong> <span id="certificateSchool"></span></p>
+          <p>Atas antusias dan prestasi luar biasanya dalam mengerjakan</p>
+          <p><strong id="certificateQuizTopic">Kuis Matematika - Penjumlahan</strong></p>
+          <div class="score" id="certificateScore">0</div>
+          <p id="certificateDate"></p>
+          <div class="stars" id="certificateStars">
+            </div>
+          <div class="certificate-footer">
+            <p id="certificateFooterText">Dibuat oleh Bimbel Brilian - www.bimbelbrilian.com</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="button-group">
+        <button id="certificateBtn">📜 Lihat Sertifikat</button>
+        <button id="downloadBtn">📥 Download Sertifikat</button>
+        <button id="retryResultBtn" class="hidden">🔄 Kerjakan Ulang</button>
+        <button id="wrongResultBtn" class="hidden">📝 Lihat Hasil Salah</button>
+      </div>
+    </div>
+  </div>
+
+  <canvas id="downloadCanvas" width="1200" height="800"></canvas>
+  
+  <script src="script.js"></script>
+</body>
+</html>
