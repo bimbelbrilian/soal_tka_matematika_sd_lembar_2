@@ -1,7 +1,7 @@
 class KuisMatematika {
     constructor() {
         this.soalData = {
-            "judul-soal002": "Soal TKA Matematika SD/MI - Versi 2",
+            "judul-soal002": "Soal TKA Matematika SD/MI - Lembar 2",
   "soal": [
     {
       "id": "soal002-nomor001",
@@ -743,7 +743,7 @@ class KuisMatematika {
 
     setJudulKuis() {
         const judulElement = document.getElementById('judul-kuis');
-        judulElement.innerHTML = `📊 ${this.soalData["judul-soal001"]}`;
+        judulElement.innerHTML = `📊 ${this.soalData["judul-soal002"]}`;
     }
 
     updateNavigasi() {
@@ -1018,7 +1018,7 @@ prosesPengumpulan() {
         scoreValue.textContent = results.percentage;
         statCorrect.textContent = results.correct;
         statIncorrect.textContent = results.total - results.correct;
-        resultQuizTitle.textContent = this.soalData["judul-soal001"];
+        resultQuizTitle.textContent = this.soalData["judul-soal002"];
         resultName.textContent = this.userData.nama;
         resultSchool.textContent = this.userData.sekolah;
         
@@ -1091,7 +1091,7 @@ prosesPengumpulan() {
         ctx.fillText('Atas Partisipasi Dalam', canvas.width / 2, 200);
         
         ctx.font = 'bold 36px Arial';
-        ctx.fillText(this.soalData["judul-soal001"], canvas.width / 2, 250);
+        ctx.fillText(this.soalData["judul-soal002"], canvas.width / 2, 250);
         
         ctx.font = 'bold 42px Arial';
         ctx.fillText(this.userData.nama, canvas.width / 2, 350);
