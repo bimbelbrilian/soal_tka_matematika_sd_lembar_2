@@ -1,7 +1,7 @@
 class KuisMatematika {
     constructor() {
         this.soalData = {
-            "judul-soal002": "Latihan Soal TKA Matematika SD Versi Pilihan Ganda - Lembar 1",
+            "judul-soal002": "Latihan Soal TKA Matematika SD Versi Pilihan Ganda - Lembar 2",
             "soal": [
                 {
                     "id": "soal001-nomor001",
@@ -788,7 +788,7 @@ class KuisMatematika {
 
     setJudulKuis() {
         const judulElement = document.getElementById('judul-kuis');
-        judulElement.innerHTML = `📊 ${this.soalData["judul-soal002"]}`;
+        judulElement.innerHTML = `📊 ${this.soalData[""]}`;
     }
 
     updateNavigasi() {
@@ -1072,7 +1072,7 @@ class KuisMatematika {
         scoreValue.textContent = results.percentage;
         statCorrect.textContent = results.correct;
         statIncorrect.textContent = results.total - results.correct;
-        resultQuizTitle.textContent = this.soalData["judul-soal002"];
+        resultQuizTitle.textContent = this.soalData[""];
         resultName.textContent = this.userData.nama;
         resultSchool.textContent = this.userData.sekolah;
 
