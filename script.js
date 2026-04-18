@@ -1,561 +1,561 @@
 class KuisMatematika {
     constructor() {
         this.soalData = {
-            "judul-soal002": "Soal TKA Matematika SD/MI - Lembar 2",
-  "soal": [
-    {
-      "id": "soal002-nomor001",
-      "soal": "Hasil dari 156 ÷ 13 + 8 × 4 - 25 adalah ....",
-      "jawaban": 19,
-      "pilihan": [
-        { "id": "soal002-nomor001-A", "nilai": 27 },
-        { "id": "soal002-nomor001-B", "nilai": 19 },
-        { "id": "soal002-nomor001-C", "nilai": 15 },
-        { "id": "soal002-nomor001-D", "nilai": 39 }
-      ]
-    },
-    {
-      "id": "soal002-nomor002",
-      "soal": "FPB dari 54 dan 72 adalah ....",
-      "jawaban": 18,
-      "pilihan": [
-        { "id": "soal002-nomor002-A", "nilai": 6 },
-        { "id": "soal002-nomor002-B", "nilai": 9 },
-        { "id": "soal002-nomor002-C", "nilai": 18 },
-        { "id": "soal002-nomor002-D", "nilai": 27 }
-      ]
-    },
-    {
-      "id": "soal002-nomor003",
-      "soal": "KPK dari 16, 20, dan 24 adalah ....",
-      "jawaban": 240,
-      "pilihan": [
-        { "id": "soal002-nomor003-A", "nilai": 240 },
-        { "id": "soal002-nomor003-B", "nilai": 180 },
-        { "id": "soal002-nomor003-C", "nilai": 360 },
-        { "id": "soal002-nomor003-D", "nilai": 120 }
-      ]
-    },
-    {
-      "id": "soal002-nomor004",
-      "soal": "Bentuk persen dari 13/20 adalah ....",
-      "jawaban": 65,
-      "pilihan": [
-        { "id": "soal002-nomor004-A", "nilai": 60 },
-        { "id": "soal002-nomor004-B", "nilai": 65 },
-        { "id": "soal002-nomor004-C", "nilai": 70 },
-        { "id": "soal002-nomor004-D", "nilai": 75 }
-      ]
-    },
-    {
-      "id": "soal002-nomor005",
-      "soal": "0,375 jika diubah ke pecahan biasa menjadi ....",
-      "jawaban": "3/8",
-      "pilihan": [
-        { "id": "soal002-nomor005-A", "nilai": "3/8" },
-        { "id": "soal002-nomor005-B", "nilai": "3/12" },
-        { "id": "soal002-nomor005-C", "nilai": "5/12" },
-        { "id": "soal002-nomor005-D", "nilai": "7/16" }
-      ]
-    },
-    {
-      "id": "soal002-nomor006",
-      "soal": "Hasil dari 3,25 - 1,75 + 2,5 adalah ....",
-      "jawaban": 4.0,
-      "pilihan": [
-        { "id": "soal002-nomor006-A", "nilai": 3.75 },
-        { "id": "soal002-nomor006-B", "nilai": 4.0 },
-        { "id": "soal002-nomor006-C", "nilai": 4.25 },
-        { "id": "soal002-nomor006-D", "nilai": 4.5 }
-      ]
-    },
-    {
-      "id": "soal002-nomor007",
-      "soal": "Urutan dari yang terbesar : 5/6, 0,82, 4/5, 78% adalah ....",
-      "jawaban": "5/6, 0,82, 4/5, 78%",
-      "pilihan": [
-        { "id": "soal002-nomor007-A", "nilai": "5/6, 0,82, 4/5, 78%" },
-        { "id": "soal002-nomor007-B", "nilai": "0,82, 5/6, 4/5, 78%" },
-        { "id": "soal002-nomor007-C", "nilai": "0,82, 5/6, 78%, 4/5" },
-        { "id": "soal002-nomor007-D", "nilai": "5/6, 0,82, 78%, 4/5" }
-      ]
-    },
-    {
-      "id": "soal002-nomor008",
-      "soal": "Hasil dari 3³ - 2³ - 4² adalah ....",
-      "jawaban": 3,
-      "pilihan": [
-        { "id": "soal002-nomor008-A", "nilai": 3 },
-        { "id": "soal002-nomor008-B", "nilai": 5 },
-        { "id": "soal002-nomor008-C", "nilai": 7 },
-        { "id": "soal002-nomor008-D", "nilai": 9 }
-      ]
-    },
-    {
-      "id": "soal002-nomor009",
-      "soal": "Ibu menabung Rp800.000,00 dengan bunga 9% per tahun. Jumlah tabungan ibu setelah 4 bulan adalah ....",
-      "jawaban": 824000,
-      "pilihan": [
-        { "id": "soal002-nomor009-A", "nilai": 824000 },
-        { "id": "soal002-nomor009-B", "nilai": 828000 },
-        { "id": "soal002-nomor009-C", "nilai": 832000 },
-        { "id": "soal002-nomor009-D", "nilai": 836000 }
-      ]
-    },
-    {
-      "id": "soal002-nomor010",
-      "soal": "Hasil dari 2/3 × 3/4 ÷ 1/2 adalah ....",
-      "jawaban": 1,
-      "pilihan": [
-        { "id": "soal002-nomor010-A", "nilai": 1 },
-        { "id": "soal002-nomor010-B", "nilai": 1.25 },
-        { "id": "soal002-nomor010-C", "nilai": 1.5 },
-        { "id": "soal002-nomor010-D", "nilai": 2 }
-      ]
-    },
-    {
-      "id": "soal002-nomor011",
-      "soal": "Harga sebuah sepatu adalah Rp180.000,00. Jika mendapat diskon sebesar 15%, maka harga setelah diskon adalah ....",
-      "jawaban": 153000,
-      "pilihan": [
-        { "id": "soal002-nomor011-A", "nilai": 153000 },
-        { "id": "soal002-nomor011-B", "nilai": 156000 },
-        { "id": "soal002-nomor011-C", "nilai": 159000 },
-        { "id": "soal002-nomor011-D", "nilai": 162000 }
-      ]
-    },
-    {
-      "id": "soal002-nomor012",
-      "soal": "Perbandingan jumlah buku Rina dan Sari adalah 2 : 3. Jika selisih buku mereka adalah 12 buah, maka jumlah buku mereka adalah ....",
-      "jawaban": 60,
-      "pilihan": [
-        { "id": "soal002-nomor012-A", "nilai": 48 },
-        { "id": "soal002-nomor012-B", "nilai": 54 },
-        { "id": "soal002-nomor012-C", "nilai": 60 },
-        { "id": "soal002-nomor012-D", "nilai": 72 }
-      ]
-    },
-    {
-      "id": "soal002-nomor013",
-      "soal": "Hasil dari 2,4 × 1,5 ÷ 0,6 adalah ....",
-      "jawaban": 6,
-      "pilihan": [
-        { "id": "soal002-nomor013-A", "nilai": 6 },
-        { "id": "soal002-nomor013-B", "nilai": 8 },
-        { "id": "soal002-nomor013-C", "nilai": 9 },
-        { "id": "soal002-nomor013-D", "nilai": 10 }
-      ]
-    },
-    {
-      "id": "soal002-nomor014",
-      "soal": "Bilangan kubik antara 50 dan 100 adalah ....",
-      "jawaban": 64,
-      "pilihan": [
-        { "id": "soal002-nomor014-A", "nilai": 64 },
-        { "id": "soal002-nomor014-B", "nilai": 72 },
-        { "id": "soal002-nomor014-C", "nilai": 81 },
-        { "id": "soal002-nomor014-D", "nilai": 96 }
-      ]
-    },
-    {
-      "id": "soal002-nomor015",
-      "soal": "Hasil dari √144 + √64 - √49 adalah ....",
-      "jawaban": 13,
-      "pilihan": [
-        { "id": "soal002-nomor015-A", "nilai": 13 },
-        { "id": "soal002-nomor015-B", "nilai": 15 },
-        { "id": "soal002-nomor015-C", "nilai": 17 },
-        { "id": "soal002-nomor015-D", "nilai": 19 }
-      ]
-    },
-    {
-      "id": "soal002-nomor016",
-      "soal": "Keliling sebuah persegi panjang 68 cm. Jika lebarnya 14 cm, maka panjangnya adalah ....",
-      "jawaban": 20,
-      "pilihan": [
-        { "id": "soal002-nomor016-A", "nilai": 18 },
-        { "id": "soal002-nomor016-B", "nilai": 20 },
-        { "id": "soal002-nomor016-C", "nilai": 22 },
-        { "id": "soal002-nomor016-D", "nilai": 24 }
-      ]
-    },
-    {
-      "id": "soal002-nomor017",
-      "soal": "Luas sebuah segitiga adalah 108 cm². Jika tingginya 12 cm, maka alasnya adalah ....",
-      "jawaban": 18,
-      "pilihan": [
-        { "id": "soal002-nomor017-A", "nilai": 16 },
-        { "id": "soal002-nomor017-B", "nilai": 18 },
-        { "id": "soal002-nomor017-C", "nilai": 20 },
-        { "id": "soal002-nomor017-D", "nilai": 22 }
-      ]
-    },
-    {
-      "id": "soal002-nomor018",
-      "soal": "Volume kubus dengan rusuk 18 cm adalah ....",
-      "jawaban": 5832,
-      "pilihan": [
-        { "id": "soal002-nomor018-A", "nilai": 5632 },
-        { "id": "soal002-nomor018-B", "nilai": 5732 },
-        { "id": "soal002-nomor018-C", "nilai": 5832 },
-        { "id": "soal002-nomor018-D", "nilai": 5932 }
-      ]
-    },
-    {
-      "id": "soal002-nomor019",
-      "soal": "Sebuah lingkaran mempunyai diameter sepanjang 35 cm. Maka luas lingkaran tersebut adalah .... (π = 22/7)",
-      "jawaban": 962.5,
-      "pilihan": [
-        { "id": "soal002-nomor019-A", "nilai": 962.5 },
-        { "id": "soal002-nomor019-B", "nilai": 971.5 },
-        { "id": "soal002-nomor019-C", "nilai": 963 },
-        { "id": "soal002-nomor019-D", "nilai": 854.5 }
-      ]
-    },
-    {
-      "id": "soal002-nomor020",
-      "soal": "Sebuah balok kayu mempunyai ukuran 24 cm × 15 cm × 10 cm. Maka luas permukaannya adalah ....",
-      "jawaban": 1500,
-      "pilihan": [
-        { "id": "soal002-nomor020-A", "nilai": 1380 },
-        { "id": "soal002-nomor020-B", "nilai": 1420 },
-        { "id": "soal002-nomor020-C", "nilai": 1460 },
-        { "id": "soal002-nomor020-D", "nilai": 1500 }
-      ]
-    },
-    {
-      "id": "soal002-nomor021",
-      "soal": "4,2 km + 380 m + 4.500 cm = .... meter",
-      "jawaban": 4625,
-      "pilihan": [
-        { "id": "soal002-nomor021-A", "nilai": 4575 },
-        { "id": "soal002-nomor021-B", "nilai": 4585 },
-        { "id": "soal002-nomor021-C", "nilai": 4595 },
-        { "id": "soal002-nomor021-D", "nilai": 4625 }
-      ]
-    },
-    {
-      "id": "soal002-nomor022",
-      "soal": "3 jam 20 menit + 2 jam 45 menit = .... menit",
-      "jawaban": 365,
-      "pilihan": [
-        { "id": "soal002-nomor022-A", "nilai": 355 },
-        { "id": "soal002-nomor022-B", "nilai": 360 },
-        { "id": "soal002-nomor022-C", "nilai": 365 },
-        { "id": "soal002-nomor022-D", "nilai": 370 }
-      ]
-    },
-    {
-      "id": "soal002-nomor023",
-      "soal": "Sebuah akuarium berbentuk balok mempunyai ukuran 100 cm × 50 cm × 40 cm. Maka volumenya adalah .... liter",
-      "jawaban": 200,
-      "pilihan": [
-        { "id": "soal002-nomor023-A", "nilai": 180 },
-        { "id": "soal002-nomor023-B", "nilai": 190 },
-        { "id": "soal002-nomor023-C", "nilai": 200 },
-        { "id": "soal002-nomor023-D", "nilai": 210 }
-      ]
-    },
-    {
-      "id": "soal002-nomor024",
-      "soal": "Bu Ais beli 3,25 kg beras, 2.200 gram gula, dan 0,75 kg telur. Total berat belanjaan Bu Ais .... gram",
-      "jawaban": 6200,
-      "pilihan": [
-        { "id": "soal002-nomor024-A", "nilai": 5950 },
-        { "id": "soal002-nomor024-B", "nilai": 6050 },
-        { "id": "soal002-nomor024-C", "nilai": 6150 },
-        { "id": "soal002-nomor024-D", "nilai": 6200 }
-      ]
-    },
-    {
-      "id": "soal002-nomor025",
-      "soal": "Sebuah mobil akan menempuh jarak sepanjang 315 km dengan kecepatan 70 km/jam. Maka waktu yang diperlukan mobil tersebut adalah .... jam",
-      "jawaban": 4.5,
-      "pilihan": [
-        { "id": "soal002-nomor025-A", "nilai": 4.0 },
-        { "id": "soal002-nomor025-B", "nilai": 4.5 },
-        { "id": "soal002-nomor025-C", "nilai": 5.0 },
-        { "id": "soal002-nomor025-D", "nilai": 5.5 }
-      ]
-    },
-    {
-      "id": "soal002-nomor026",
-      "soal": "Keliling sebuah persegi adalah 92 cm. Maka luasnya adalah ....",
-      "jawaban": 529,
-      "pilihan": [
-        { "id": "soal002-nomor026-A", "nilai": 484 },
-        { "id": "soal002-nomor026-B", "nilai": 625 },
-        { "id": "soal002-nomor026-C", "nilai": 576 },
-        { "id": "soal002-nomor026-D", "nilai": 529 }
-      ]
-    },
-    {
-      "id": "soal002-nomor027",
-      "soal": "Keliling sebuah segitiga sama kaki adalah 62 cm. Jika alasnya 22 cm, maka panjang sisi yang lain sama-sama berukuran ....",
-      "jawaban": 20,
-      "pilihan": [
-        { "id": "soal002-nomor027-A", "nilai": 20 },
-        { "id": "soal002-nomor027-B", "nilai": 19 },
-        { "id": "soal002-nomor027-C", "nilai": 18 },
-        { "id": "soal002-nomor027-D", "nilai": 21 }
-      ]
-    },
-    {
-      "id": "soal002-nomor028",
-      "soal": "Volume balok adalah 3.600 cm³. Jika panjangnya 24 cm dan lebarnya 15 cm, maka tingginya adalah ....",
-      "jawaban": 10,
-      "pilihan": [
-        { "id": "soal002-nomor028-A", "nilai": 8 },
-        { "id": "soal002-nomor028-B", "nilai": 9 },
-        { "id": "soal002-nomor028-C", "nilai": 10 },
-        { "id": "soal002-nomor028-D", "nilai": 12 }
-      ]
-    },
-    {
-      "id": "soal002-nomor029",
-      "soal": "Keliling lingkaran dengan jari-jari 35 cm adalah .... (π = 22/7)",
-      "jawaban": 220,
-      "pilihan": [
-        { "id": "soal002-nomor029-A", "nilai": 210 },
-        { "id": "soal002-nomor029-B", "nilai": 220 },
-        { "id": "soal002-nomor029-C", "nilai": 230 },
-        { "id": "soal002-nomor029-D", "nilai": 240 }
-      ]
-    },
-    {
-      "id": "soal002-nomor030",
-      "soal": "Sebuah lapangan berbentuk persegi panjang memiliki ukuran 50 m × 35 m. Maka keliling lapangan tersebut adalah ....",
-      "jawaban": 170,
-      "pilihan": [
-        { "id": "soal002-nomor030-A", "nilai": 160 },
-        { "id": "soal002-nomor030-B", "nilai": 165 },
-        { "id": "soal002-nomor030-C", "nilai": 170 },
-        { "id": "soal002-nomor030-D", "nilai": 175 }
-      ]
-    },
-    {
-      "id": "soal002-nomor031",
-      "soal": "Sebuah prisma segitiga mempunyai panjang alas 8 cm, tinggi alas 6 cm, tinggi prisma 20 cm. Volumenya ....",
-      "jawaban": 480,
-      "pilihan": [
-        { "id": "soal002-nomor031-A", "nilai": 460 },
-        { "id": "soal002-nomor031-B", "nilai": 480 },
-        { "id": "soal002-nomor031-C", "nilai": 500 },
-        { "id": "soal002-nomor031-D", "nilai": 520 }
-      ]
-    },
-    {
-      "id": "soal002-nomor032",
-      "soal": "Tabung diameter 21 cm, tinggi 25 cm. Volumenya .... (π = 22/7)",
-      "jawaban": 8662.5,
-      "pilihan": [
-        { "id": "soal002-nomor032-A", "nilai": 8962.5 },
-        { "id": "soal002-nomor032-B", "nilai": 8862.5 },
-        { "id": "soal002-nomor032-C", "nilai": 8762.5 },
-        { "id": "soal002-nomor032-D", "nilai": 8662.5 }
-      ]
-    },
-    {
-      "id": "soal002-nomor033",
-      "soal": "Kerucut dengan jari-jari 14 cm, tinggi 18 cm. maka volumenya adalah .... (π = 22/7)",
-      "jawaban": 3696,
-      "pilihan": [
-        { "id": "soal002-nomor033-A", "nilai": 3596 },
-        { "id": "soal002-nomor033-B", "nilai": 3696 },
-        { "id": "soal002-nomor033-C", "nilai": 3796 },
-        { "id": "soal002-nomor033-D", "nilai": 3896 }
-      ]
-    },
-    {
-      "id": "soal002-nomor034",
-      "soal": "Besar setiap sudut dari segitiga sama sisi adalah ....",
-      "jawaban": 60,
-      "pilihan": [
-        { "id": "soal002-nomor034-A", "nilai": 45 },
-        { "id": "soal002-nomor034-B", "nilai": 60 },
-        { "id": "soal002-nomor034-C", "nilai": 90 },
-        { "id": "soal002-nomor034-D", "nilai": 120 }
-      ]
-    },
-    {
-      "id": "soal002-nomor035",
-      "soal": "Sudut 150° termasuk sudut ....",
-      "jawaban": "Tumpul",
-      "pilihan": [
-        { "id": "soal002-nomor035-A", "nilai": "Tumpul" },
-        { "id": "soal002-nomor035-B", "nilai": "Siku-siku" },
-        { "id": "soal002-nomor035-C", "nilai": "Lancip" },
-        { "id": "soal002-nomor035-D", "nilai": "Refleks" }
-      ]
-    },
-    {
-      "id": "soal002-nomor036",
-      "soal": "Sebuah limas segiempat mempunyai panjang sisi 12 cm. Jika tinggi limas adalah 15 cm. Maka volumenya ....",
-      "jawaban": 720,
-      "pilihan": [
-        { "id": "soal002-nomor036-A", "nilai": 680 },
-        { "id": "soal002-nomor036-B", "nilai": 700 },
-        { "id": "soal002-nomor036-C", "nilai": 720 },
-        { "id": "soal002-nomor036-D", "nilai": 740 }
-      ]
-    },
-    {
-      "id": "soal002-nomor037",
-      "soal": "Sebuah bola dengan jari-jari 21 cm. Maka volumenya adalah .... (π = 22/7)",
-      "jawaban": 38808,
-      "pilihan": [
-        { "id": "soal002-nomor037-A", "nilai": 31434 },
-        { "id": "soal002-nomor037-B", "nilai": 38808 },
-        { "id": "soal002-nomor037-C", "nilai": 47564 },
-        { "id": "soal002-nomor037-D", "nilai": 37758 }
-      ]
-    },
-    {
-      "id": "soal002-nomor038",
-      "soal": "Sebuah trapesium memiliki panjang sisi sejajar 15 cm dan 25 cm. Jika tingginya adalah 10 cm. Maka luasnya adalah ....",
-      "jawaban": 200,
-      "pilihan": [
-        { "id": "soal002-nomor038-A", "nilai": 180 },
-        { "id": "soal002-nomor038-B", "nilai": 190 },
-        { "id": "soal002-nomor038-C", "nilai": 200 },
-        { "id": "soal002-nomor038-D", "nilai": 210 }
-      ]
-    },
-    {
-      "id": "soal002-nomor039",
-      "soal": "Sebuah layang-layang mempunyai panjang diagonal 18 cm dan 28 cm. Maka luasnya ....",
-      "jawaban": 252,
-      "pilihan": [
-        { "id": "soal002-nomor039-A", "nilai": 242 },
-        { "id": "soal002-nomor039-B", "nilai": 252 },
-        { "id": "soal002-nomor039-C", "nilai": 262 },
-        { "id": "soal002-nomor039-D", "nilai": 272 }
-      ]
-    },
-    {
-      "id": "soal002-nomor040",
-      "soal": "Panjang diagonal dari belah ketupat adalah 24 cm dan 32 cm. Maka luas dari belah ketupat tersebut adalah ....",
-      "jawaban": 384,
-      "pilihan": [
-        { "id": "soal002-nomor040-A", "nilai": 364 },
-        { "id": "soal002-nomor040-B", "nilai": 374 },
-        { "id": "soal002-nomor040-C", "nilai": 384 },
-        { "id": "soal002-nomor040-D", "nilai": 394 }
-      ]
-    },
-    {
-      "id": "soal002-nomor041",
-      "soal": "8, 7, 9, 8, 6, 7, 8, 9, 7, 8. Modus dari data nilai di atas adalah ....",
-      "jawaban": 8,
-      "pilihan": [
-        { "id": "soal002-nomor041-A", "nilai": 7 },
-        { "id": "soal002-nomor041-B", "nilai": 6 },
-        { "id": "soal002-nomor041-C", "nilai": 9 },
-        { "id": "soal002-nomor041-D", "nilai": 8 }
-      ]
-    },
-    {
-      "id": "soal002-nomor042",
-      "soal": "Rata-rata dari 10 siswa adalah 88. Maka jika ditambah nilai 2 siswa yaitu 98 dan 90, rata-rata barunya adalah ....",
-      "jawaban": 89,
-      "pilihan": [
-        { "id": "soal002-nomor042-A", "nilai": 92 },
-        { "id": "soal002-nomor042-B", "nilai": 88 },
-        { "id": "soal002-nomor042-C", "nilai": 90 },
-        { "id": "soal002-nomor042-D", "nilai": 89 }
-      ]
-    },
-    {
-      "id": "soal002-nomor043",
-      "soal": "132, 135, 138, 140, 142, 145, 148. Median dari data di atas adalah ....",
-      "jawaban": 140,
-      "pilihan": [
-        { "id": "soal002-nomor043-A", "nilai": 138 },
-        { "id": "soal002-nomor043-B", "nilai": 145 },
-        { "id": "soal002-nomor043-C", "nilai": 142 },
-        { "id": "soal002-nomor043-D", "nilai": 140 }
-      ]
-    },
-    {
-      "id": "soal002-nomor044",
-      "soal": "Peluang muncul mata dadu kurang dari 4 adalah ....",
-      "jawaban": "1/2",
-      "pilihan": [
-        { "id": "soal002-nomor044-A", "nilai": "1/6" },
-        { "id": "soal002-nomor044-B", "nilai": "1/3" },
-        { "id": "soal002-nomor044-C", "nilai": "1/2" },
-        { "id": "soal002-nomor044-D", "nilai": "2/3" }
-      ]
-    },
-    {
-      "id": "soal002-nomor045",
-      "soal": "Sebuah kotak berisi 6 bola merah, 4 bola biru, 5 bola hijau. Peluang terambilnya bola biru adalah ....",
-      "jawaban": "4/15",
-      "pilihan": [
-        { "id": "soal002-nomor045-A", "nilai": "4/15" },
-        { "id": "soal002-nomor045-B", "nilai": "1/3" },
-        { "id": "soal002-nomor045-C", "nilai": "2/5" },
-        { "id": "soal002-nomor045-D", "nilai": "3/5" }
-      ]
-    },
-    {
-      "id": "soal002-nomor046",
-      "soal": "Penjualan beras selama 7 hari di toko Pak Joko berturut-turut dalam kilogram adalah sebagai berikut: 30, 35, 40, 45, 50, 64, 58. Maka rata-rata penjualan beras di toko Pak Joko selama 7 hari adalah ....",
-      "jawaban": 46,
-      "pilihan": [
-        { "id": "soal002-nomor046-A", "nilai": 42 },
-        { "id": "soal002-nomor046-B", "nilai": 44 },
-        { "id": "soal002-nomor046-C", "nilai": 46 },
-        { "id": "soal002-nomor046-D", "nilai": 48 }
-      ]
-    },
-    {
-      "id": "soal002-nomor047",
-      "soal": "Jumlah pengunjung perpustakaan Brilian selama 6 hari adalah berturut-turut sebagai berikut: 45, 40, 55, 50, 60. Selisih pengunjung terbanyak dan tersedikit adalah ....",
-      "jawaban": 20,
-      "pilihan": [
-        { "id": "soal002-nomor047-A", "nilai": 15 },
-        { "id": "soal002-nomor047-B", "nilai": 30 },
-        { "id": "soal002-nomor047-C", "nilai": 25 },
-        { "id": "soal002-nomor047-D", "nilai": 20 }
-      ]
-    },
-    {
-      "id": "soal002-nomor048",
-      "soal": "11, 12, 13, 12, 12, 14, 13, 12, 11, 13. Modus dari data di atas adalah ....",
-      "jawaban": 12,
-      "pilihan": [
-        { "id": "soal002-nomor048-A", "nilai": 11 },
-        { "id": "soal002-nomor048-B", "nilai": 14 },
-        { "id": "soal002-nomor048-C", "nilai": 13 },
-        { "id": "soal002-nomor048-D", "nilai": 12 }
-      ]
-    },
-    {
-      "id": "soal002-nomor049",
-      "soal": "Data berat badan 5 anak adalah 18 kg, 21 kg, 23 kg, 25 kg, 28 kg. Jika ditambah 1 anak lagi maka rata-ratanya adalah 24 kg, maka anak yang ditambahkan tersebut beratnya adalah ....",
-      "jawaban": 29,
-      "pilihan": [
-        { "id": "soal002-nomor049-A", "nilai": 27 },
-        { "id": "soal002-nomor049-B", "nilai": 28 },
-        { "id": "soal002-nomor049-C", "nilai": 29 },
-        { "id": "soal002-nomor049-D", "nilai": 30 }
-      ]
-    },
-    {
-      "id": "soal002-nomor050",
-      "soal": "Terdapat 6 kelereng merah, 7 kelereng biru, 5 kelereng hijau. Peluang terambil kelereng merah adalah ....",
-      "jawaban": "1/3",
-      "pilihan": [
-        { "id": "soal002-nomor050-A", "nilai": "1/3" },
-        { "id": "soal002-nomor050-B", "nilai": "18/6" },
-        { "id": "soal002-nomor050-C", "nilai": "6/13" },
-        { "id": "soal002-nomor050-D", "nilai": "1/2" }
+            "judul-soal001": "Latihan Soal TKA Matematika SD Versi Pilihan Ganda - Lembar 1",
+            "soal": [
+                {
+                    "id": "soal001-nomor001",
+                    "soal": "Hasil dari 28 + 45 : 9 - 6 × 3 adalah ....",
+                    "jawaban": 15,
+                    "pilihan": [
+                        { "id": "soal001-nomor001-A", "nilai": 19 },
+                        { "id": "soal001-nomor001-B", "nilai": 15 },
+                        { "id": "soal001-nomor001-C", "nilai": 25 },
+                        { "id": "soal001-nomor001-D", "nilai": 31 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor002",
+                    "soal": "FPB dari 36 dan 60 adalah ....",
+                    "jawaban": 12,
+                    "pilihan": [
+                        { "id": "soal001-nomor002-A", "nilai": 6 },
+                        { "id": "soal001-nomor002-B", "nilai": 24 },
+                        { "id": "soal001-nomor002-C", "nilai": 18 },
+                        { "id": "soal001-nomor002-D", "nilai": 12 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor003",
+                    "soal": "KPK dari 12, 15, dan 20 adalah ....",
+                    "jawaban": 60,
+                    "pilihan": [
+                        { "id": "soal001-nomor003-A", "nilai": 60 },
+                        { "id": "soal001-nomor003-B", "nilai": 50 },
+                        { "id": "soal001-nomor003-C", "nilai": 80 },
+                        { "id": "soal001-nomor003-D", "nilai": 75 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor004",
+                    "soal": "Bentuk desimal dari 5/8 adalah ....",
+                    "jawaban": 0.625,
+                    "pilihan": [
+                        { "id": "soal001-nomor004-A", "nilai": 0.525 },
+                        { "id": "soal001-nomor004-B", "nilai": 0.575 },
+                        { "id": "soal001-nomor004-C", "nilai": 0.625 },
+                        { "id": "soal001-nomor004-D", "nilai": 0.675 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor005",
+                    "soal": "35% dari 800 adalah ....",
+                    "jawaban": 280,
+                    "pilihan": [
+                        { "id": "soal001-nomor005-A", "nilai": 250 },
+                        { "id": "soal001-nomor005-B", "nilai": 280 },
+                        { "id": "soal001-nomor005-C", "nilai": 320 },
+                        { "id": "soal001-nomor005-D", "nilai": 350 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor006",
+                    "soal": "Hasil dari 2 1/4 + 1,75 - 1 1/2 adalah ....",
+                    "jawaban": 2.5,
+                    "pilihan": [
+                        { "id": "soal001-nomor006-A", "nilai": 2.15 },
+                        { "id": "soal001-nomor006-B", "nilai": 2.8 },
+                        { "id": "soal001-nomor006-C", "nilai": 2.75 },
+                        { "id": "soal001-nomor006-D", "nilai": 2.5 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor007",
+                    "soal": "Urutan pecahan dari yang terkecil ke terbesar dari 2/3, 0,65, 5/8, 70% adalah ....",
+                    "jawaban": "5/8, 0,65, 2/3, 70%",
+                    "pilihan": [
+                        { "id": "soal001-nomor007-A", "nilai": "5/8, 0,65, 2/3, 70%" },
+                        { "id": "soal001-nomor007-B", "nilai": "5/8, 0,65, 70%, 2/3" },
+                        { "id": "soal001-nomor007-C", "nilai": "0,65, 5/8, 70%, 2/3" },
+                        { "id": "soal001-nomor007-D", "nilai": "0,65, 5/8, 2/3, 70%" }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor008",
+                    "soal": "Hasil dari 125 - (48 : 6) + 12 × 3 adalah ....",
+                    "jawaban": 153,
+                    "pilihan": [
+                        { "id": "soal001-nomor008-A", "nilai": 143 },
+                        { "id": "soal001-nomor008-B", "nilai": 149 },
+                        { "id": "soal001-nomor008-C", "nilai": 153 },
+                        { "id": "soal001-nomor008-D", "nilai": 157 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor009",
+                    "soal": "Pak Rudi menabung Rp1.200.000,00 dengan bunga 6% per tahun. Bunga yang diterima setelah 9 bulan menabung adalah ....",
+                    "jawaban": 54000,
+                    "pilihan": [
+                        { "id": "soal001-nomor009-A", "nilai": 54000 },
+                        { "id": "soal001-nomor009-B", "nilai": 60000 },
+                        { "id": "soal001-nomor009-C", "nilai": 64000 },
+                        { "id": "soal001-nomor009-D", "nilai": 72000 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor010",
+                    "soal": "Hasil dari 3/4 × 2/3 + 1/2 adalah ....",
+                    "jawaban": 1,
+                    "pilihan": [
+                        { "id": "soal001-nomor010-A", "nilai": 1 },
+                        { "id": "soal001-nomor010-B", "nilai": "1 1/4" },
+                        { "id": "soal001-nomor010-C", "nilai": "1 1/2" },
+                        { "id": "soal001-nomor010-D", "nilai": "1 3/4" }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor011",
+                    "soal": "Harga sebuah buku adalah Rp15.000,00. Jika mendapat diskon 20%, harga buku setelah diskon adalah ....",
+                    "jawaban": 12000,
+                    "pilihan": [
+                        { "id": "soal001-nomor011-A", "nilai": 11000 },
+                        { "id": "soal001-nomor011-B", "nilai": 12000 },
+                        { "id": "soal001-nomor011-C", "nilai": 12500 },
+                        { "id": "soal001-nomor011-D", "nilai": 13000 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor012",
+                    "soal": "Perbandingan umur Andi dan Budi adalah 3 : 5. Jika jumlah umur mereka jika digabung adalah 32 tahun, maka umur Budi adalah ....",
+                    "jawaban": 20,
+                    "pilihan": [
+                        { "id": "soal001-nomor012-A", "nilai": 12 },
+                        { "id": "soal001-nomor012-B", "nilai": 15 },
+                        { "id": "soal001-nomor012-C", "nilai": 18 },
+                        { "id": "soal001-nomor012-D", "nilai": 20 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor013",
+                    "soal": "Hasil dari 1,25 × 0,8 : 0,5 adalah ....",
+                    "jawaban": 2.0,
+                    "pilihan": [
+                        { "id": "soal001-nomor013-A", "nilai": 1.5 },
+                        { "id": "soal001-nomor013-B", "nilai": 2.0 },
+                        { "id": "soal001-nomor013-C", "nilai": 2.5 },
+                        { "id": "soal001-nomor013-D", "nilai": 3.0 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor014",
+                    "soal": "Bilangan prima antara 20 dan 50 adalah ....",
+                    "jawaban": "23, 29, 31, 37, 41, 43, dan 47",
+                    "pilihan": [
+                        { "id": "soal001-nomor014-A", "nilai": "23, 25, 31, 37, 41, 43, dan 47" },
+                        { "id": "soal001-nomor014-B", "nilai": "23, 27, 29, 37, 41, 43, dan 47" },
+                        { "id": "soal001-nomor014-C", "nilai": "23, 29, 31, 35, 41, 43, dan 47" },
+                        { "id": "soal001-nomor014-D", "nilai": "23, 29, 31, 37, 41, 43, dan 47" }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor015",
+                    "soal": "Hasil dari 4² + √144 - 3³ adalah ....",
+                    "jawaban": 1,
+                    "pilihan": [
+                        { "id": "soal001-nomor015-A", "nilai": 1 },
+                        { "id": "soal001-nomor015-B", "nilai": 3 },
+                        { "id": "soal001-nomor015-C", "nilai": 5 },
+                        { "id": "soal001-nomor015-D", "nilai": 7 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor016",
+                    "soal": "Keliling sebuah persegi panjang adalah 54 cm. Jika panjangnya 18 cm, maka lebarnya adalah ....",
+                    "jawaban": 9,
+                    "pilihan": [
+                        { "id": "soal001-nomor016-A", "nilai": 8 },
+                        { "id": "soal001-nomor016-B", "nilai": 9 },
+                        { "id": "soal001-nomor016-C", "nilai": 10 },
+                        { "id": "soal001-nomor016-D", "nilai": 12 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor017",
+                    "soal": "Luas sebuah segitiga adalah 96 cm². Jika alasnya 16 cm, maka tingginya adalah ....",
+                    "jawaban": 12,
+                    "pilihan": [
+                        { "id": "soal001-nomor017-A", "nilai": 14 },
+                        { "id": "soal001-nomor017-B", "nilai": 16 },
+                        { "id": "soal001-nomor017-C", "nilai": 10 },
+                        { "id": "soal001-nomor017-D", "nilai": 12 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor018",
+                    "soal": "Sebuah kubus memiliki panjang rusuk 15 cm. Maka volume kubus tersebut adalah ....",
+                    "jawaban": 3375,
+                    "pilihan": [
+                        { "id": "soal001-nomor018-A", "nilai": 3275 },
+                        { "id": "soal001-nomor018-B", "nilai": 3375 },
+                        { "id": "soal001-nomor018-C", "nilai": 3475 },
+                        { "id": "soal001-nomor018-D", "nilai": 3575 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor019",
+                    "soal": "Sebuah lingkaran memiliki diameter 42 cm. Luas lingkaran tersebut adalah .... (π = 22/7)",
+                    "jawaban": 1386,
+                    "pilihan": [
+                        { "id": "soal001-nomor019-A", "nilai": 1386 },
+                        { "id": "soal001-nomor019-B", "nilai": 1486 },
+                        { "id": "soal001-nomor019-C", "nilai": 1586 },
+                        { "id": "soal001-nomor019-D", "nilai": 1686 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor020",
+                    "soal": "Sebuah balok memiliki panjang 20 cm, lebar 12 cm, dan tinggi 8 cm. Luas permukaan balok tersebut adalah ....",
+                    "jawaban": 992,
+                    "pilihan": [
+                        { "id": "soal001-nomor020-A", "nilai": 892 },
+                        { "id": "soal001-nomor020-B", "nilai": 912 },
+                        { "id": "soal001-nomor020-C", "nilai": 932 },
+                        { "id": "soal001-nomor020-D", "nilai": 992 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor021",
+                    "soal": "3,5 km + 450 m + 2.500 cm = .... meter",
+                    "jawaban": 3975,
+                    "pilihan": [
+                        { "id": "soal001-nomor021-A", "nilai": 3945 },
+                        { "id": "soal001-nomor021-B", "nilai": 3955 },
+                        { "id": "soal001-nomor021-C", "nilai": 3965 },
+                        { "id": "soal001-nomor021-D", "nilai": 3975 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor022",
+                    "soal": "2 jam 35 menit + 3 jam 50 menit = .... menit",
+                    "jawaban": 385,
+                    "pilihan": [
+                        { "id": "soal001-nomor022-A", "nilai": 365 },
+                        { "id": "soal001-nomor022-B", "nilai": 375 },
+                        { "id": "soal001-nomor022-C", "nilai": 385 },
+                        { "id": "soal001-nomor022-D", "nilai": 395 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor023",
+                    "soal": "Sebuah akuarium berbentuk balok memiliki ukuran panjang 90 cm, lebar 40 cm, dan tinggi 35 cm. Volume akuarium tersebut adalah .... liter",
+                    "jawaban": 126,
+                    "pilihan": [
+                        { "id": "soal001-nomor023-A", "nilai": 116 },
+                        { "id": "soal001-nomor023-B", "nilai": 126 },
+                        { "id": "soal001-nomor023-C", "nilai": 136 },
+                        { "id": "soal001-nomor023-D", "nilai": 146 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor024",
+                    "soal": "Ibu membeli 2,25 kg gula, 1.750 gram tepung, dan 0,5 kg margarin. Total berat belanjaan Ibu adalah .... gram",
+                    "jawaban": 4500,
+                    "pilihan": [
+                        { "id": "soal001-nomor024-A", "nilai": 4600 },
+                        { "id": "soal001-nomor024-B", "nilai": 4750 },
+                        { "id": "soal001-nomor024-C", "nilai": 4725 },
+                        { "id": "soal001-nomor024-D", "nilai": 4500 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor025",
+                    "soal": "Sebuah mobil berjalan dengan rata-rata kecepatan 60 km/jam. Jika jarak yang ditempuh adalah 240 km, maka waktu yang diperlukan adalah .... jam",
+                    "jawaban": 4,
+                    "pilihan": [
+                        { "id": "soal001-nomor025-A", "nilai": 3.5 },
+                        { "id": "soal001-nomor025-B", "nilai": 3 },
+                        { "id": "soal001-nomor025-C", "nilai": 4.5 },
+                        { "id": "soal001-nomor025-D", "nilai": 4 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor026",
+                    "soal": "Keliling sebuah persegi adalah 84 cm. Maka luas persegi tersebut adalah ....",
+                    "jawaban": 441,
+                    "pilihan": [
+                        { "id": "soal001-nomor026-A", "nilai": 400 },
+                        { "id": "soal001-nomor026-B", "nilai": 441 },
+                        { "id": "soal001-nomor026-C", "nilai": 484 },
+                        { "id": "soal001-nomor026-D", "nilai": 529 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor027",
+                    "soal": "Sebuah segitiga sama sisi memiliki keliling 72 cm. maka panjang setiap sisinya adalah ....",
+                    "jawaban": 24,
+                    "pilihan": [
+                        { "id": "soal001-nomor027-A", "nilai": 16 },
+                        { "id": "soal001-nomor027-B", "nilai": 20 },
+                        { "id": "soal001-nomor027-C", "nilai": 24 },
+                        { "id": "soal001-nomor027-D", "nilai": 28 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor028",
+                    "soal": "Volume sebuah balok adalah 2.400 cm³. Jika panjang 20 cm dan lebar 10 cm, maka tinggi balok tersebut adalah ....",
+                    "jawaban": 12,
+                    "pilihan": [
+                        { "id": "soal001-nomor028-A", "nilai": 10 },
+                        { "id": "soal001-nomor028-B", "nilai": 12 },
+                        { "id": "soal001-nomor028-C", "nilai": 14 },
+                        { "id": "soal001-nomor028-D", "nilai": 16 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor029",
+                    "soal": "Jari-jari sebuah lingkaran 28 cm. Keliling lingkaran tersebut adalah .... (π = 22/7)",
+                    "jawaban": 176,
+                    "pilihan": [
+                        { "id": "soal001-nomor029-A", "nilai": 168 },
+                        { "id": "soal001-nomor029-B", "nilai": 172 },
+                        { "id": "soal001-nomor029-C", "nilai": 176 },
+                        { "id": "soal001-nomor029-D", "nilai": 180 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor030",
+                    "soal": "Sebuah lapangan berbentuk persegi panjang dengan panjang 45 m dan lebar 30 m. Maka luas lapangan tersebut adalah ....",
+                    "jawaban": 1350,
+                    "pilihan": [
+                        { "id": "soal001-nomor030-A", "nilai": 1350 },
+                        { "id": "soal001-nomor030-B", "nilai": 1450 },
+                        { "id": "soal001-nomor030-C", "nilai": 1550 },
+                        { "id": "soal001-nomor030-D", "nilai": 1650 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor031",
+                    "soal": "Sebuah prisma segitiga memiliki alas berbentuk segitiga siku-siku dengan panjang sisi 6 cm, 8 cm, dan 10 cm. Jika tinggi prisma 15 cm, volume prisma tersebut adalah ....",
+                    "jawaban": 360,
+                    "pilihan": [
+                        { "id": "soal001-nomor031-A", "nilai": 360 },
+                        { "id": "soal001-nomor031-B", "nilai": 350 },
+                        { "id": "soal001-nomor031-C", "nilai": 340 },
+                        { "id": "soal001-nomor031-D", "nilai": 330 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor032",
+                    "soal": "Sebuah tabung memiliki diameter alas 14 cm dan tinggi 20 cm. Volume tabung tersebut adalah .... (π = 22/7)",
+                    "jawaban": 3080,
+                    "pilihan": [
+                        { "id": "soal001-nomor032-A", "nilai": 2980 },
+                        { "id": "soal001-nomor032-B", "nilai": 3080 },
+                        { "id": "soal001-nomor032-C", "nilai": 3180 },
+                        { "id": "soal001-nomor032-D", "nilai": 3280 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor033",
+                    "soal": "Sebuah kerucut memiliki jari-jari alas 7 cm dan tinggi 24 cm. Volume kerucut tersebut adalah .... (π = 22/7)",
+                    "jawaban": 1232,
+                    "pilihan": [
+                        { "id": "soal001-nomor033-A", "nilai": 1122 },
+                        { "id": "soal001-nomor033-B", "nilai": 1222 },
+                        { "id": "soal001-nomor033-C", "nilai": 1232 },
+                        { "id": "soal001-nomor033-D", "nilai": 1332 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor034",
+                    "soal": "Besar sudut pada segitiga sama sisi adalah ....",
+                    "jawaban": 60,
+                    "pilihan": [
+                        { "id": "soal001-nomor034-A", "nilai": 45 },
+                        { "id": "soal001-nomor034-B", "nilai": 60 },
+                        { "id": "soal001-nomor034-C", "nilai": 90 },
+                        { "id": "soal001-nomor034-D", "nilai": 120 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor035",
+                    "soal": "Sudut yang besarnya 135° termasuk sudut ....",
+                    "jawaban": "Tumpul",
+                    "pilihan": [
+                        { "id": "soal001-nomor035-A", "nilai": "Lancip" },
+                        { "id": "soal001-nomor035-B", "nilai": "Siku-siku" },
+                        { "id": "soal001-nomor035-C", "nilai": "Tumpul" },
+                        { "id": "soal001-nomor035-D", "nilai": "Refleks" }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor036",
+                    "soal": "Sebuah limas segiempat beraturan memiliki panjang sisi alas 10 cm dan tinggi limas 12 cm. Volume limas tersebut adalah ....",
+                    "jawaban": 400,
+                    "pilihan": [
+                        { "id": "soal001-nomor036-A", "nilai": 400 },
+                        { "id": "soal001-nomor036-B", "nilai": 390 },
+                        { "id": "soal001-nomor036-C", "nilai": 380 },
+                        { "id": "soal001-nomor036-D", "nilai": 500 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor037",
+                    "soal": "Sebuah bola memiliki jari-jari 21 cm. Volume bola tersebut adalah .... (π = 22/7)",
+                    "jawaban": 38808,
+                    "pilihan": [
+                        { "id": "soal001-nomor037-A", "nilai": 38808 },
+                        { "id": "soal001-nomor037-B", "nilai": 38818 },
+                        { "id": "soal001-nomor037-C", "nilai": 38828 },
+                        { "id": "soal001-nomor037-D", "nilai": 38838 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor038",
+                    "soal": "Sebuah trapesium memiliki panjang sisi sejajar 12 cm dan 18 cm, serta tinggi 8 cm. Luas trapesium tersebut adalah ....",
+                    "jawaban": 120,
+                    "pilihan": [
+                        { "id": "soal001-nomor038-A", "nilai": 110 },
+                        { "id": "soal001-nomor038-B", "nilai": 115 },
+                        { "id": "soal001-nomor038-C", "nilai": 120 },
+                        { "id": "soal001-nomor038-D", "nilai": 125 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor039",
+                    "soal": "Sebuah layang-layang memiliki diagonal 16 cm dan 24 cm. Luas layang-layang tersebut adalah ....",
+                    "jawaban": 192,
+                    "pilihan": [
+                        { "id": "soal001-nomor039-A", "nilai": 182 },
+                        { "id": "soal001-nomor039-B", "nilai": 184 },
+                        { "id": "soal001-nomor039-C", "nilai": 186 },
+                        { "id": "soal001-nomor039-D", "nilai": 192 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor040",
+                    "soal": "Sebuah belah ketupat memiliki diagonal 20 cm dan 30 cm. Luas belah ketupat tersebut adalah ....",
+                    "jawaban": 300,
+                    "pilihan": [
+                        { "id": "soal001-nomor040-A", "nilai": 280 },
+                        { "id": "soal001-nomor040-B", "nilai": 290 },
+                        { "id": "soal001-nomor040-C", "nilai": 300 },
+                        { "id": "soal001-nomor040-D", "nilai": 310 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor041",
+                    "soal": "Data nilai ulangan kelas 6 SD adalah sebagai berikut: 7, 8, 6, 9, 7, 8, 7, 6, 7, 9, 9. Modus dari data tersebut adalah ....",
+                    "jawaban": 7,
+                    "pilihan": [
+                        { "id": "soal001-nomor041-A", "nilai": 6 },
+                        { "id": "soal001-nomor041-B", "nilai": 7 },
+                        { "id": "soal001-nomor041-C", "nilai": 8 },
+                        { "id": "soal001-nomor041-D", "nilai": 9 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor042",
+                    "soal": "Rata-rata nilai 8 siswa adalah 82. Jika nilai seorang siswa lainnya 91 digabungkan, rata-rata baru menjadi ....",
+                    "jawaban": 83,
+                    "pilihan": [
+                        { "id": "soal001-nomor042-A", "nilai": 82.5 },
+                        { "id": "soal001-nomor042-B", "nilai": 84 },
+                        { "id": "soal001-nomor042-C", "nilai": 83.5 },
+                        { "id": "soal001-nomor042-D", "nilai": 83 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor043",
+                    "soal": "Data tinggi badan siswa kelas 5 SD dalam satuan centimeter adalah sebagai berikut: 145, 148, 150, 152, 155, 158, 160. Median dari data tersebut adalah ....",
+                    "jawaban": 152,
+                    "pilihan": [
+                        { "id": "soal001-nomor043-A", "nilai": 150 },
+                        { "id": "soal001-nomor043-B", "nilai": 152 },
+                        { "id": "soal001-nomor043-C", "nilai": 155 },
+                        { "id": "soal001-nomor043-D", "nilai": 158 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor044",
+                    "soal": "Peluang munculnya mata dadu ganjil pada pelemparan sebuah dadu adalah ....",
+                    "jawaban": "1/2",
+                    "pilihan": [
+                        { "id": "soal001-nomor044-A", "nilai": "1/6" },
+                        { "id": "soal001-nomor044-B", "nilai": "1/3" },
+                        { "id": "soal001-nomor044-C", "nilai": "1/2" },
+                        { "id": "soal001-nomor044-D", "nilai": "2/3" }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor045",
+                    "soal": "Dalam sebuah kotak terdapat 8 bola merah, 2 bola biru, dan 10 bola hijau. Peluang terambil bola merah adalah ....",
+                    "jawaban": "2/5",
+                    "pilihan": [
+                        { "id": "soal001-nomor045-A", "nilai": "2/5" },
+                        { "id": "soal001-nomor045-B", "nilai": "4/5" },
+                        { "id": "soal001-nomor045-C", "nilai": "3/10" },
+                        { "id": "soal001-nomor045-D", "nilai": "1/2" }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor046",
+                    "soal": "Data penjualan buku selama seminggu: Senin = 25, Selasa = 30, Rabu = 35, Kamis = 40, Jumat = 45, Sabtu = 59. Rata-rata penjualan per hari adalah ....",
+                    "jawaban": 39,
+                    "pilihan": [
+                        { "id": "soal001-nomor046-A", "nilai": 35 },
+                        { "id": "soal001-nomor046-B", "nilai": 37 },
+                        { "id": "soal001-nomor046-C", "nilai": 39 },
+                        { "id": "soal001-nomor046-D", "nilai": 41 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor047",
+                    "soal": "Jumlah pengunjung perpustakaan dari dari senin sampai Jumat adalah sebagai berikut: 40, 35, 50, 45, 55. Selisih pengunjung terbanyak dan tersedikit adalah ....",
+                    "jawaban": 20,
+                    "pilihan": [
+                        { "id": "soal001-nomor047-A", "nilai": 15 },
+                        { "id": "soal001-nomor047-B", "nilai": 30 },
+                        { "id": "soal001-nomor047-C", "nilai": 25 },
+                        { "id": "soal001-nomor047-D", "nilai": 20 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor048",
+                    "soal": "10, 11, 12, 10, 11, 13, 12, 11, 10, 11. Modus dari data tersebut adalah ....",
+                    "jawaban": 11,
+                    "pilihan": [
+                        { "id": "soal001-nomor048-A", "nilai": 10 },
+                        { "id": "soal001-nomor048-B", "nilai": 11 },
+                        { "id": "soal001-nomor048-C", "nilai": 12 },
+                        { "id": "soal001-nomor048-D", "nilai": 13 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor049",
+                    "soal": "15, 18, 20, 22, 25, 24, 25, 15, 20, 20, 22, 20. Rata-rata dari data tersebut adalah ....",
+                    "jawaban": 20.5,
+                    "pilihan": [
+                        { "id": "soal001-nomor049-A", "nilai": 20.5 },
+                        { "id": "soal001-nomor049-B", "nilai": 21 },
+                        { "id": "soal001-nomor049-C", "nilai": 21.5 },
+                        { "id": "soal001-nomor049-D", "nilai": 20.6 }
+                    ]
+                },
+                {
+                    "id": "soal001-nomor050",
+                    "soal": "Dalam sebuah kantong terdapat 4 kelereng merah, 5 kelereng biru, dan 6 kelereng hijau. Peluang terambil kelereng biru adalah ....",
+                    "jawaban": "1/3",
+                    "pilihan": [
+                        { "id": "soal001-nomor050-A", "nilai": "4/15" },
+                        { "id": "soal001-nomor050-B", "nilai": "5/12" },
+                        { "id": "soal001-nomor050-C", "nilai": "1/2" },
+                        { "id": "soal001-nomor050-D", "nilai": "1/3" }
                     ]
                 }
             ]
         };
-        
+
         this.jawabanUser = {};
         this.soalDijawab = 0;
         this.quizSubmitted = false;
@@ -564,11 +564,57 @@ class KuisMatematika {
         this.currentSoalIndex = 0;
         this.totalSoal = this.soalData.soal.length;
         this.timeLeft = 2 * 60 * this.totalSoal;
+        this.currentEscHandler = null;
         this.init();
     }
 
     init() {
         this.setupEventListeners();
+    }
+
+    // ===================================================================
+    // ✅ PERBAIKAN UTAMA: Method normalisasi jawaban
+    // ===================================================================
+    normalisasiJawaban(value) {
+        // Jika null atau undefined, kembalikan sebagai-nya
+        if (value === null || value === undefined) {
+            return value;
+        }
+
+        // Convert ke string untuk analisis
+        const strValue = String(value).trim();
+
+        // Jika string kosong, kembalikan null
+        if (strValue === '') {
+            return null;
+        }
+
+        // Coba convert ke number
+        const numValue = Number(strValue);
+
+        // Jika valid number, kembalikan sebagai number
+        if (!isNaN(numValue) && strValue !== '') {
+            return numValue;
+        }
+
+        // Jika bukan number valid, kembalikan string asli
+        return strValue;
+    }
+
+    // Method untuk membandingkan jawaban dengan aman
+    bandingkanJawaban(userAnswer, correctAnswer) {
+        // Jika user tidak menjawab
+        if (userAnswer === null || userAnswer === undefined) {
+            return false;
+        }
+
+        // Normalisasi kedua nilai
+        const normalizedUser = this.normalisasiJawaban(userAnswer);
+        const normalizedCorrect = this.normalisasiJawaban(correctAnswer);
+
+        // Gunakan loose equality untuk menghindari masalah tipe
+        // Tapi tetap aman karena sudah dinormalisasi
+        return normalizedUser == normalizedCorrect;
     }
 
     // Method untuk mengacak array (Fisher-Yates shuffle)
@@ -604,7 +650,7 @@ class KuisMatematika {
         document.getElementById('prev-btn').addEventListener('click', () => {
             this.previousSoal();
         });
-        
+
         document.getElementById('next-btn').addEventListener('click', () => {
             this.nextSoal();
         });
@@ -613,38 +659,38 @@ class KuisMatematika {
     mulaiKuis() {
         const nama = document.getElementById('nama').value;
         const sekolah = document.getElementById('sekolah').value;
-        
+
         this.userData = { nama, sekolah };
-        
+
         document.getElementById('identitas-container').classList.add('hidden');
         document.getElementById('loading').classList.remove('hidden');
-        
+
         this.setJudulKuis();
-        
+
         setTimeout(() => {
             document.getElementById('loading').classList.add('hidden');
-            
+
             // Tampilkan semua elemen yang diperlukan
             document.getElementById('info-peserta').classList.remove('hidden');
             document.getElementById('participant-name').textContent = this.userData.nama;
             document.getElementById('participant-school').textContent = this.userData.sekolah;
-            
+
             document.getElementById('sticky-header').classList.remove('hidden');
             document.getElementById('soal-container').classList.remove('hidden');
             document.getElementById('submit-btn').classList.remove('hidden');
-            
+
             this.renderSoalSatuPerSatu();
             this.updateProgress();
             this.startTimer();
             this.setupNavigasi();
-            this.updateNextButtonState(); // Update state tombol selanjutnya
+            this.updateNextButtonState();
         }, 1000);
     }
 
     renderSoalSatuPerSatu() {
         const container = document.getElementById('soal-container');
         container.innerHTML = '';
-        
+
         // Render soal
         this.soalData.soal.forEach((soal, index) => {
             const soalElement = this.createSoalElement(soal, index);
@@ -653,7 +699,7 @@ class KuisMatematika {
             }
             container.appendChild(soalElement);
         });
-        
+
         // Tambahkan navigasi
         const navigasiElement = document.createElement('div');
         navigasiElement.id = 'soal-navigasi';
@@ -666,28 +712,27 @@ class KuisMatematika {
             <button id="next-btn" class="nav-btn" disabled>Selanjutnya ➡️</button>
         `;
         container.appendChild(navigasiElement);
-        
+
         this.updateNavigasi();
-        this.updateNextButtonState(); // Update state tombol selanjutnya
+        this.updateNextButtonState();
     }
 
-    // Method baru: Cek apakah soal saat ini sudah dijawab
+    // Cek apakah soal saat ini sudah dijawab
     isCurrentSoalAnswered() {
         const currentSoal = this.soalData.soal[this.currentSoalIndex];
         return this.jawabanUser.hasOwnProperty(currentSoal.id);
     }
 
-    // Method baru: Update state tombol selanjutnya
+    // Update state tombol selanjutnya
     updateNextButtonState() {
         const nextBtn = document.getElementById('next-btn');
         if (nextBtn) {
             const isAnswered = this.isCurrentSoalAnswered();
             const isLastSoal = this.currentSoalIndex === this.totalSoal - 1;
-            
+
             // Nonaktifkan tombol selanjutnya jika belum dijawab DAN bukan soal terakhir
-            // Untuk soal terakhir, biarkan aktif karena akan dikumpulkan via tombol submit
             nextBtn.disabled = !isAnswered && !isLastSoal;
-            
+
             // Tambahkan tooltip jika disabled
             if (nextBtn.disabled) {
                 nextBtn.title = "Pilih jawaban terlebih dahulu untuk melanjutkan";
@@ -699,15 +744,15 @@ class KuisMatematika {
 
     startTimer() {
         this.updateTimerDisplay();
-        
+
         this.timerInterval = setInterval(() => {
             this.timeLeft--;
             this.updateTimerDisplay();
-            
+
             if (this.timeLeft <= 0) {
                 this.waktuHabis();
             }
-            
+
             const totalWaktu = 2 * 60 * this.totalSoal;
             if (this.timeLeft <= totalWaktu * 0.1) {
                 this.showTimeWarning();
@@ -718,10 +763,10 @@ class KuisMatematika {
     updateTimerDisplay() {
         const minutes = Math.floor(this.timeLeft / 60);
         const seconds = this.timeLeft % 60;
-        
+
         document.getElementById('timer-minutes').textContent = minutes.toString().padStart(2, '0');
         document.getElementById('timer-seconds').textContent = seconds.toString().padStart(2, '0');
-        
+
         if (this.timeLeft <= 5 * 60) {
             document.getElementById('timer-minutes').classList.add('timer-warning');
             document.getElementById('timer-seconds').classList.add('timer-warning');
@@ -743,23 +788,21 @@ class KuisMatematika {
 
     setJudulKuis() {
         const judulElement = document.getElementById('judul-kuis');
-        judulElement.innerHTML = `📊 ${this.soalData["judul-soal002"]}`;
+        judulElement.innerHTML = `📊 ${this.soalData["judul-soal001"]}`;
     }
 
     updateNavigasi() {
         document.getElementById('current-soal').textContent = this.currentSoalIndex + 1;
         document.getElementById('total-soal').textContent = this.totalSoal;
-        
+
         const prevBtn = document.getElementById('prev-btn');
-        const nextBtn = document.getElementById('next-btn');
-        
+
         prevBtn.disabled = this.currentSoalIndex === 0;
-        // nextBtn.disabled logic dipindah ke updateNextButtonState()
-        
+
         const progress = ((this.currentSoalIndex + 1) / this.totalSoal) * 100;
         document.getElementById('progress-fill').style.width = `${progress}%`;
         document.getElementById('progress-text').textContent = `${this.currentSoalIndex + 1}/${this.totalSoal}`;
-        
+
         // Update state tombol selanjutnya
         this.updateNextButtonState();
     }
@@ -770,13 +813,13 @@ class KuisMatematika {
             if (currentSoal) {
                 currentSoal.style.display = 'none';
             }
-            
+
             this.currentSoalIndex++;
             const nextSoal = document.querySelector(`[data-soal-index="${this.currentSoalIndex}"]`);
             if (nextSoal) {
                 nextSoal.style.display = 'block';
             }
-            
+
             this.updateNavigasi();
             this.scrollToSoal();
         }
@@ -788,13 +831,13 @@ class KuisMatematika {
             if (currentSoal) {
                 currentSoal.style.display = 'none';
             }
-            
+
             this.currentSoalIndex--;
             const prevSoal = document.querySelector(`[data-soal-index="${this.currentSoalIndex}"]`);
             if (prevSoal) {
                 prevSoal.style.display = 'block';
             }
-            
+
             this.updateNavigasi();
             this.scrollToSoal();
         }
@@ -803,7 +846,7 @@ class KuisMatematika {
     scrollToSoal() {
         const currentSoal = document.querySelector(`[data-soal-index="${this.currentSoalIndex}"]`);
         if (currentSoal) {
-            currentSoal.scrollIntoView({ 
+            currentSoal.scrollIntoView({
                 behavior: 'smooth',
                 block: 'start'
             });
@@ -812,7 +855,7 @@ class KuisMatematika {
 
     createSoalElement(soal, index) {
         const pilihanAcak = this.acakArray(soal.pilihan);
-        
+
         const div = document.createElement('div');
         div.className = 'soal-item';
         div.setAttribute('data-soal-index', index);
@@ -826,7 +869,7 @@ class KuisMatematika {
                                name="jawaban-${soal.id}" 
                                value="${pilihan.nilai}" 
                                id="${pilihan.id}"
-                               ${this.jawabanUser[soal.id] === pilihan.nilai ? 'checked' : ''}>
+                               ${this.jawabanUser[soal.id] !== undefined && this.bandingkanJawaban(this.jawabanUser[soal.id], pilihan.nilai) ? 'checked' : ''}>
                         <label for="${pilihan.id}" class="pilihan-label">
                             ${pilihan.nilai}
                         </label>
@@ -840,9 +883,12 @@ class KuisMatematika {
         radios.forEach(radio => {
             radio.addEventListener('change', (e) => {
                 if (!this.quizSubmitted) {
-                    this.jawabanUser[soal.id] = parseInt(e.target.value);
+                    // ===================================================================
+                    // ✅ PERBAIKAN: Gunakan normalisasiJawaban bukan parseInt
+                    // ===================================================================
+                    this.jawabanUser[soal.id] = this.normalisasiJawaban(e.target.value);
                     this.updateProgress();
-                    this.updateNextButtonState(); // Update tombol selanjutnya ketika jawaban dipilih
+                    this.updateNextButtonState();
                 }
             });
         });
@@ -862,91 +908,90 @@ class KuisMatematika {
     }
 
     kumpulkanJawaban() {
-    // Tampilkan custom modal konfirmasi
-    this.tampilkanModalKonfirmasi();
-}
+        this.tampilkanModalKonfirmasi();
+    }
 
-tampilkanModalKonfirmasi() {
-    const modal = document.getElementById('confirm-modal');
-    const confirmedAnswered = document.getElementById('confirmed-answered');
-    const confirmedTotal = document.getElementById('confirmed-total');
-    const confirmCancel = document.getElementById('confirm-cancel');
-    const confirmSubmit = document.getElementById('confirm-submit');
-    
-    // Update data di modal
-    confirmedAnswered.textContent = this.soalDijawab;
-    confirmedTotal.textContent = this.totalSoal;
-    
-    // Tampilkan modal
-    modal.classList.remove('hidden');
-    
-    // Setup event listeners untuk tombol modal
-    const handleConfirm = () => {
-        this.sembunyikanModalKonfirmasi();
-        this.prosesPengumpulan();
-    };
-    
-    const handleCancel = () => {
-        this.sembunyikanModalKonfirmasi();
-    };
-    
-    // Hapus event listeners sebelumnya (jika ada)
-    confirmSubmit.replaceWith(confirmSubmit.cloneNode(true));
-    confirmCancel.replaceWith(confirmCancel.cloneNode(true));
-    
-    // Tambah event listeners baru
-    document.getElementById('confirm-submit').addEventListener('click', handleConfirm);
-    document.getElementById('confirm-cancel').addEventListener('click', handleCancel);
-    
-    // ESC key untuk close modal
-    const handleEscKey = (e) => {
-        if (e.key === 'Escape') {
+    tampilkanModalKonfirmasi() {
+        const modal = document.getElementById('confirm-modal');
+        const confirmedAnswered = document.getElementById('confirmed-answered');
+        const confirmedTotal = document.getElementById('confirmed-total');
+        const confirmCancel = document.getElementById('confirm-cancel');
+        const confirmSubmit = document.getElementById('confirm-submit');
+
+        // Update data di modal
+        confirmedAnswered.textContent = this.soalDijawab;
+        confirmedTotal.textContent = this.totalSoal;
+
+        // Tampilkan modal
+        modal.classList.remove('hidden');
+
+        // Setup event listeners untuk tombol modal
+        const handleConfirm = () => {
             this.sembunyikanModalKonfirmasi();
+            this.prosesPengumpulan();
+        };
+
+        const handleCancel = () => {
+            this.sembunyikanModalKonfirmasi();
+        };
+
+        // Hapus event listeners sebelumnya (jika ada)
+        confirmSubmit.replaceWith(confirmSubmit.cloneNode(true));
+        confirmCancel.replaceWith(confirmCancel.cloneNode(true));
+
+        // Tambah event listeners baru
+        document.getElementById('confirm-submit').addEventListener('click', handleConfirm);
+        document.getElementById('confirm-cancel').addEventListener('click', handleCancel);
+
+        // ESC key untuk close modal
+        const handleEscKey = (e) => {
+            if (e.key === 'Escape') {
+                this.sembunyikanModalKonfirmasi();
+            }
+        };
+
+        document.addEventListener('keydown', handleEscKey);
+        this.currentEscHandler = handleEscKey;
+    }
+
+    sembunyikanModalKonfirmasi() {
+        const modal = document.getElementById('confirm-modal');
+        modal.classList.add('hidden');
+
+        // Hapus event listener ESC
+        if (this.currentEscHandler) {
+            document.removeEventListener('keydown', this.currentEscHandler);
+            this.currentEscHandler = null;
         }
-    };
-    
-    document.addEventListener('keydown', handleEscKey);
-    this.currentEscHandler = handleEscKey;
-}
-
-sembunyikanModalKonfirmasi() {
-    const modal = document.getElementById('confirm-modal');
-    modal.classList.add('hidden');
-    
-    // Hapus event listener ESC
-    if (this.currentEscHandler) {
-        document.removeEventListener('keydown', this.currentEscHandler);
-        this.currentEscHandler = null;
     }
-}
 
-prosesPengumpulan() {
-    // PROSES PENGGUMPULAN ASLI (kode yang sebelumnya di kumpulkanJawaban)
-    if (this.timerInterval) {
-        clearInterval(this.timerInterval);
+    prosesPengumpulan() {
+        // PROSES PENGGUMPULAN ASLI
+        if (this.timerInterval) {
+            clearInterval(this.timerInterval);
+        }
+
+        this.quizSubmitted = true;
+        const results = this.hitungSkor();
+
+        this.nonaktifkanSoal();
+        this.tampilkanFeedback();
+
+        document.getElementById('submit-btn').classList.add('hidden');
+        document.getElementById('sticky-header').classList.add('hidden');
+        document.getElementById('info-peserta').classList.add('hidden');
+        document.getElementById('soal-container').classList.add('hidden');
+        document.getElementById('soal-navigasi').classList.add('hidden');
+
+        document.querySelector('.main-content').classList.add('quiz-completed');
+
+        this.tampilkanHasil(results);
+        this.scrollToResults();
     }
-    
-    this.quizSubmitted = true;
-    const results = this.hitungSkor();
-    
-    this.nonaktifkanSoal();
-    this.tampilkanFeedback();
-    
-    document.getElementById('submit-btn').classList.add('hidden');
-    document.getElementById('sticky-header').classList.add('hidden');
-    document.getElementById('info-peserta').classList.add('hidden');
-    document.getElementById('soal-container').classList.add('hidden');
-    document.getElementById('soal-navigasi').classList.add('hidden');
-    
-    document.querySelector('.main-content').classList.add('quiz-completed');
-    
-    this.tampilkanHasil(results);
-    this.scrollToResults();
-}
 
     scrollToResults() {
         const resultsBox = document.getElementById('results-box');
-        resultsBox.scrollIntoView({ 
+        resultsBox.scrollIntoView({
             behavior: 'smooth',
             block: 'start'
         });
@@ -957,19 +1002,23 @@ prosesPengumpulan() {
         soalItems.forEach(item => {
             item.classList.add('disabled');
         });
-        
+
         const semuaRadio = document.querySelectorAll('input[type="radio"]');
         semuaRadio.forEach(radio => {
             radio.disabled = true;
         });
     }
 
+    // ===================================================================
+    // ✅ PERBAIKAN: tampilkanFeedback menggunakan bandingkanJawaban
+    // ===================================================================
     tampilkanFeedback() {
         this.soalData.soal.forEach(soal => {
             const feedbackElement = document.getElementById(`feedback-${soal.id}`);
             const userAnswer = this.jawabanUser[soal.id];
-            
-            if (userAnswer === soal.jawaban) {
+
+            // Gunakan method bandingkanJawaban yang sudah diperbaiki
+            if (this.bandingkanJawaban(userAnswer, soal.jawaban)) {
                 feedbackElement.textContent = '✅ Jawaban Anda benar!';
                 feedbackElement.className = 'feedback correct';
             } else {
@@ -979,16 +1028,21 @@ prosesPengumpulan() {
         });
     }
 
+    // ===================================================================
+    // ✅ PERBAIKAN: hitungSkor menggunakan bandingkanJawaban
+    // ===================================================================
     hitungSkor() {
         let correct = 0;
         const results = [];
 
         this.soalData.soal.forEach(soal => {
             const userAnswer = this.jawabanUser[soal.id];
-            const isCorrect = userAnswer === soal.jawaban;
             
+            // Gunakan method bandingkanJawaban yang sudah diperbaiki
+            const isCorrect = this.bandingkanJawaban(userAnswer, soal.jawaban);
+
             if (isCorrect) correct++;
-            
+
             results.push({
                 soal: soal.soal,
                 userAnswer: userAnswer,
@@ -1014,18 +1068,18 @@ prosesPengumpulan() {
         const resultName = document.getElementById('result-name');
         const resultSchool = document.getElementById('result-school');
         const performanceFill = document.getElementById('performance-fill');
-        
+
         scoreValue.textContent = results.percentage;
         statCorrect.textContent = results.correct;
         statIncorrect.textContent = results.total - results.correct;
-        resultQuizTitle.textContent = this.soalData["judul-soal002"];
+        resultQuizTitle.textContent = this.soalData["judul-soal001"];
         resultName.textContent = this.userData.nama;
         resultSchool.textContent = this.userData.sekolah;
-        
+
         setTimeout(() => {
             performanceFill.style.width = `${results.percentage}%`;
         }, 500);
-        
+
         resultsBox.classList.remove('hidden');
         this.tampilkanDetailHasil(results.details);
         document.getElementById('action-buttons').classList.remove('hidden');
@@ -1043,13 +1097,13 @@ prosesPengumpulan() {
     tampilkanDetailHasil(details) {
         const detailContainer = document.getElementById('detail-results');
         let html = '<h3>Detail Jawaban:</h3>';
-        
+
         details.forEach((detail, index) => {
             const isCorrect = detail.isCorrect;
             const statusClass = isCorrect ? 'correct' : 'incorrect';
             const statusIcon = isCorrect ? '✅' : '❌';
             const userAnswerText = detail.userAnswer !== undefined ? detail.userAnswer : 'Tidak dijawab';
-            
+
             html += `
                 <div class="detail-item ${statusClass}">
                     <div class="detail-question">${statusIcon} Soal ${index + 1}: ${detail.soal}</div>
@@ -1060,7 +1114,7 @@ prosesPengumpulan() {
                 </div>
             `;
         });
-        
+
         detailContainer.innerHTML = html;
         detailContainer.classList.remove('hidden');
     }
@@ -1068,50 +1122,53 @@ prosesPengumpulan() {
     downloadSertifikat() {
         const canvas = document.getElementById('certificate-canvas');
         const ctx = canvas.getContext('2d');
-        
+
         canvas.width = 1200;
         canvas.height = 800;
-        
+
         const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
         gradient.addColorStop(0, '#667eea');
         gradient.addColorStop(1, '#764ba2');
         ctx.fillStyle = gradient;
         ctx.fillRect(0, 0, canvas.width, canvas.height);
-        
+
         ctx.strokeStyle = 'rgba(255, 255, 255, 0.3)';
         ctx.lineWidth = 10;
         ctx.strokeRect(50, 50, canvas.width - 100, canvas.height - 100);
-        
+
         ctx.fillStyle = 'white';
         ctx.font = 'bold 48px Arial';
         ctx.textAlign = 'center';
         ctx.fillText('SERTIFIKAT PENGHARGAAN', canvas.width / 2, 150);
-        
+
         ctx.font = '28px Arial';
         ctx.fillText('Atas Partisipasi Dalam', canvas.width / 2, 200);
-        
+
         ctx.font = 'bold 36px Arial';
-        ctx.fillText(this.soalData["judul-soal002"], canvas.width / 2, 250);
-        
+        ctx.fillText(this.soalData["judul-soal001"], canvas.width / 2, 250);
+
         ctx.font = 'bold 42px Arial';
         ctx.fillText(this.userData.nama, canvas.width / 2, 350);
-        
+
         ctx.font = '28px Arial';
         ctx.fillText(this.userData.sekolah, canvas.width / 2, 400);
-        
+
+        // ===================================================================
+        // ✅ PERBAIKAN: hitungSkor akan menggunakan bandingkanJawaban
+        // ===================================================================
         const results = this.hitungSkor();
         ctx.font = 'bold 72px Arial';
         ctx.fillStyle = '#ffd700';
         ctx.fillText(`NILAI: ${results.percentage}`, canvas.width / 2, 500);
-        
+
         ctx.fillStyle = 'white';
         ctx.font = '24px Arial';
         ctx.fillText(`Jawaban Benar: ${results.correct} dari ${results.total} soal`, canvas.width / 2, 550);
-        
+
         ctx.font = '18px Arial';
         ctx.fillStyle = 'rgba(255, 255, 255, 0.7)';
         ctx.fillText('Dibuat oleh Bimbel Brilian - www.bimbelbrilian.com', canvas.width / 2, 620);
-        
+
         const today = new Date().toLocaleDateString('id-ID', {
             weekday: 'long',
             year: 'numeric',
@@ -1121,7 +1178,7 @@ prosesPengumpulan() {
         ctx.font = '20px Arial';
         ctx.fillStyle = 'white';
         ctx.fillText(`Tanggal: ${today}`, canvas.width / 2, 680);
-        
+
         const link = document.createElement('a');
         link.download = `Sertifikat-${this.userData.nama}.png`;
         link.href = canvas.toDataURL();
@@ -1131,7 +1188,7 @@ prosesPengumpulan() {
     celebrate() {
         const colors = ['#4facfe', '#00f2fe', '#667eea', '#764ba2', '#ffd700', '#ff6b6b'];
         const container = document.querySelector('.container');
-        
+
         for (let i = 0; i < 50; i++) {
             setTimeout(() => {
                 const confetti = document.createElement('div');
@@ -1160,29 +1217,29 @@ prosesPengumpulan() {
         this.quizSubmitted = false;
         this.currentSoalIndex = 0;
         this.timeLeft = 2 * 60 * this.soalData.soal.length;
-        
+
         if (this.timerInterval) {
             clearInterval(this.timerInterval);
         }
-        
+
         document.getElementById('results-box').classList.add('hidden');
         document.getElementById('detail-results').classList.add('hidden');
         document.getElementById('action-buttons').classList.add('hidden');
         document.getElementById('soal-container').classList.add('hidden');
         document.getElementById('soal-navigasi').classList.add('hidden');
         document.getElementById('sticky-header').classList.add('hidden');
-        
+
         document.querySelector('.main-content').classList.remove('quiz-completed');
-        
+
         document.getElementById('progress-fill').style.width = '0%';
         document.getElementById('progress-text').textContent = `0/${this.totalSoal}`;
-        
+
         const initialMinutes = Math.floor(this.timeLeft / 60);
         document.getElementById('timer-minutes').textContent = initialMinutes.toString().padStart(2, '0');
         document.getElementById('timer-seconds').textContent = '00';
         document.getElementById('timer-minutes').classList.remove('timer-warning');
         document.getElementById('timer-seconds').classList.remove('timer-warning');
-        
+
         document.getElementById('identitas-container').classList.remove('hidden');
         document.getElementById('form-identitas').reset();
         document.getElementById('submit-btn').disabled = true;
@@ -1191,7 +1248,7 @@ prosesPengumpulan() {
 
 // Tambahkan method roundRect untuk Canvas
 if (!CanvasRenderingContext2D.prototype.roundRect) {
-    CanvasRenderingContext2D.prototype.roundRect = function(x, y, w, h, r) {
+    CanvasRenderingContext2D.prototype.roundRect = function (x, y, w, h, r) {
         if (w < 2 * r) r = w / 2;
         if (h < 2 * r) r = h / 2;
         this.beginPath();
@@ -1202,7 +1259,7 @@ if (!CanvasRenderingContext2D.prototype.roundRect) {
         this.arcTo(x, y, x + w, y, r);
         this.closePath();
         return this;
-    }
+    };
 }
 
 const confettiStyle = document.createElement('style');
